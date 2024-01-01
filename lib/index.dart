@@ -24,6 +24,6 @@ export '/pages/product_details/product_details_widget.dart'
 export '/pages/payment_confirmed/payment_confirmed_widget.dart'
     show PaymentConfirmedWidget;
 export '/pages/editprofile/editprofile_widget.dart' show EditprofileWidget;
-export '/profile/profile_widget.dart' show ProfileWidget;
-export '/editprofile_copy/editprofile_copy_widget.dart'
+export '/pages/profile/profile_widget.dart' show ProfileWidget;
+export '/pages/editprofile_copy/editprofile_copy_widget.dart'
     show EditprofileCopyWidget;

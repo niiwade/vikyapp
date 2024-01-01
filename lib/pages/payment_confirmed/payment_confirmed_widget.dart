@@ -87,9 +87,9 @@ class _PaymentConfirmedWidgetState extends State<PaymentConfirmedWidget> {
                   width: 2.0,
                 ),
               ),
-              alignment: const AlignmentDirectional(0.00, 0.00),
+              alignment: const AlignmentDirectional(0.0, 0.0),
               child: Padding(
-                padding: const EdgeInsetsDirectional.fromSTEB(30.0, 30.0, 30.0, 30.0),
+                padding: const EdgeInsets.all(30.0),
                 child: Icon(
                   Icons.check_rounded,
                   color: FlutterFlowTheme.of(context).primaryBtnText,

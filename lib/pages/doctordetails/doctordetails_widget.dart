@@ -85,7 +85,7 @@ class _DoctordetailsWidgetState extends State<DoctordetailsWidget> {
               mainAxisSize: MainAxisSize.max,
               children: [
                 Padding(
-                  padding: const EdgeInsetsDirectional.fromSTEB(8.0, 8.0, 8.0, 8.0),
+                  padding: const EdgeInsets.all(8.0),
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(8.0),
                     child: Image.asset(
@@ -105,8 +105,7 @@ class _DoctordetailsWidgetState extends State<DoctordetailsWidget> {
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Padding(
-                      padding: const EdgeInsetsDirectional.fromSTEB(
-                          12.0, 12.0, 12.0, 12.0),
+                      padding: const EdgeInsets.all(12.0),
                       child: Column(
                         mainAxisSize: MainAxisSize.max,
                         children: [
@@ -246,7 +245,7 @@ class _DoctordetailsWidgetState extends State<DoctordetailsWidget> {
                             ),
                           ),
                           Align(
-                            alignment: const AlignmentDirectional(-1.00, 0.00),
+                            alignment: const AlignmentDirectional(-1.0, 0.0),
                             child: Text(
                               'Doctor Bio',
                               style: FlutterFlowTheme.of(context)
@@ -258,7 +257,7 @@ class _DoctordetailsWidgetState extends State<DoctordetailsWidget> {
                             ),
                           ),
                           Align(
-                            alignment: const AlignmentDirectional(-1.00, 0.00),
+                            alignment: const AlignmentDirectional(-1.0, 0.0),
                             child: Padding(
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   0.0, 8.0, 0.0, 12.0),

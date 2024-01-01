@@ -261,9 +261,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                           ),
                                         ),
                                         child: Padding(
-                                          padding:
-                                              const EdgeInsetsDirectional.fromSTEB(
-                                                  8.0, 8.0, 8.0, 8.0),
+                                          padding: const EdgeInsets.all(8.0),
                                           child: Column(
                                             mainAxisSize: MainAxisSize.max,
                                             crossAxisAlignment:
@@ -275,7 +273,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                     Align(
                                                       alignment:
                                                           const AlignmentDirectional(
-                                                              1.00, -1.00),
+                                                              1.0, -1.0),
                                                       child: ClipRRect(
                                                         borderRadius:
                                                             BorderRadius
@@ -293,7 +291,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                     Align(
                                                       alignment:
                                                           const AlignmentDirectional(
-                                                              1.00, -1.00),
+                                                              1.0, -1.0),
                                                       child: Padding(
                                                         padding:
                                                             const EdgeInsetsDirectional
@@ -340,8 +338,8 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                                   ),
                                                                   alignment:
                                                                       const AlignmentDirectional(
-                                                                          0.00,
-                                                                          0.00),
+                                                                          0.0,
+                                                                          0.0),
                                                                   child: Row(
                                                                     mainAxisSize:
                                                                         MainAxisSize
@@ -569,9 +567,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                           ),
                                         ),
                                         child: Padding(
-                                          padding:
-                                              const EdgeInsetsDirectional.fromSTEB(
-                                                  8.0, 8.0, 8.0, 8.0),
+                                          padding: const EdgeInsets.all(8.0),
                                           child: Column(
                                             mainAxisSize: MainAxisSize.max,
                                             crossAxisAlignment:
@@ -583,7 +579,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                     Align(
                                                       alignment:
                                                           const AlignmentDirectional(
-                                                              1.00, -1.00),
+                                                              1.0, -1.0),
                                                       child: ClipRRect(
                                                         borderRadius:
                                                             BorderRadius
@@ -601,7 +597,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                     Align(
                                                       alignment:
                                                           const AlignmentDirectional(
-                                                              1.00, -1.00),
+                                                              1.0, -1.0),
                                                       child: Padding(
                                                         padding:
                                                             const EdgeInsetsDirectional
@@ -648,8 +644,8 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                                   ),
                                                                   alignment:
                                                                       const AlignmentDirectional(
-                                                                          0.00,
-                                                                          0.00),
+                                                                          0.0,
+                                                                          0.0),
                                                                   child: Row(
                                                                     mainAxisSize:
                                                                         MainAxisSize
@@ -877,9 +873,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                           ),
                                         ),
                                         child: Padding(
-                                          padding:
-                                              const EdgeInsetsDirectional.fromSTEB(
-                                                  8.0, 8.0, 8.0, 8.0),
+                                          padding: const EdgeInsets.all(8.0),
                                           child: Column(
                                             mainAxisSize: MainAxisSize.max,
                                             crossAxisAlignment:
@@ -891,7 +885,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                     Align(
                                                       alignment:
                                                           const AlignmentDirectional(
-                                                              1.00, -1.00),
+                                                              1.0, -1.0),
                                                       child: ClipRRect(
                                                         borderRadius:
                                                             BorderRadius
@@ -909,7 +903,7 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                     Align(
                                                       alignment:
                                                           const AlignmentDirectional(
-                                                              1.00, -1.00),
+                                                              1.0, -1.0),
                                                       child: Padding(
                                                         padding:
                                                             const EdgeInsetsDirectional
@@ -956,8 +950,8 @@ class _AlllabsWidgetState extends State<AlllabsWidget> {
                                                                   ),
                                                                   alignment:
                                                                       const AlignmentDirectional(
-                                                                          0.00,
-                                                                          0.00),
+                                                                          0.0,
+                                                                          0.0),
                                                                   child: Row(
                                                                     mainAxisSize:
                                                                         MainAxisSize

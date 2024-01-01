@@ -75,7 +75,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                 ),
               ),
               child: Padding(
-                padding: const EdgeInsetsDirectional.fromSTEB(2.0, 2.0, 2.0, 2.0),
+                padding: const EdgeInsets.all(2.0),
                 child: Container(
                   width: 50.0,
                   height: 50.0,
@@ -198,7 +198,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                           ),
                           const Expanded(
                             child: Align(
-                              alignment: AlignmentDirectional(1.00, 0.00),
+                              alignment: AlignmentDirectional(1.0, 0.0),
                               child: Icon(
                                 Icons.arrow_forward_ios,
                                 color: Color(0xFF606A85),
@@ -255,7 +255,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                               ),
                               const Expanded(
                                 child: Align(
-                                  alignment: AlignmentDirectional(1.00, 0.00),
+                                  alignment: AlignmentDirectional(1.0, 0.0),
                                   child: Icon(
                                     Icons.arrow_forward_ios,
                                     color: Color(0xFF606A85),
@@ -343,7 +343,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                               ),
                               const Expanded(
                                 child: Align(
-                                  alignment: AlignmentDirectional(1.00, 0.00),
+                                  alignment: AlignmentDirectional(1.0, 0.0),
                                   child: Icon(
                                     Icons.arrow_forward_ios,
                                     color: Color(0xFF606A85),
@@ -397,7 +397,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                           ),
                           const Expanded(
                             child: Align(
-                              alignment: AlignmentDirectional(1.00, 0.00),
+                              alignment: AlignmentDirectional(1.0, 0.0),
                               child: Icon(
                                 Icons.arrow_forward_ios,
                                 color: Color(0xFF606A85),
@@ -449,7 +449,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                           ),
                           const Expanded(
                             child: Align(
-                              alignment: AlignmentDirectional(1.00, 0.00),
+                              alignment: AlignmentDirectional(1.0, 0.0),
                               child: Icon(
                                 Icons.arrow_forward_ios,
                                 color: Color(0xFF606A85),
@@ -465,7 +465,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
               ),
             ),
             Padding(
-              padding: const EdgeInsetsDirectional.fromSTEB(16.0, 16.0, 16.0, 16.0),
+              padding: const EdgeInsets.all(16.0),
               child: Container(
                 width: double.infinity,
                 height: 50.0,
@@ -478,7 +478,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                   ),
                 ),
                 child: Padding(
-                  padding: const EdgeInsetsDirectional.fromSTEB(4.0, 4.0, 4.0, 4.0),
+                  padding: const EdgeInsets.all(4.0),
                   child: Row(
                     mainAxisSize: MainAxisSize.max,
                     mainAxisAlignment: MainAxisAlignment.start,

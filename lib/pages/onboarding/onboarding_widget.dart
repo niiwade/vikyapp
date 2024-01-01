@@ -419,8 +419,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget>
                       ).animateOnPageLoad(
                           animationsMap['imageOnPageLoadAnimation1']!),
                       Padding(
-                        padding: const EdgeInsetsDirectional.fromSTEB(
-                            24.0, 24.0, 24.0, 24.0),
+                        padding: const EdgeInsets.all(24.0),
                         child: Column(
                           mainAxisSize: MainAxisSize.max,
                           crossAxisAlignment: CrossAxisAlignment.start,
@@ -485,8 +484,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget>
                       ).animateOnPageLoad(
                           animationsMap['imageOnPageLoadAnimation2']!),
                       Padding(
-                        padding: const EdgeInsetsDirectional.fromSTEB(
-                            24.0, 24.0, 24.0, 24.0),
+                        padding: const EdgeInsets.all(24.0),
                         child: Column(
                           mainAxisSize: MainAxisSize.max,
                           crossAxisAlignment: CrossAxisAlignment.start,
@@ -551,8 +549,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget>
                       ).animateOnPageLoad(
                           animationsMap['imageOnPageLoadAnimation3']!),
                       Padding(
-                        padding: const EdgeInsetsDirectional.fromSTEB(
-                            24.0, 24.0, 24.0, 24.0),
+                        padding: const EdgeInsets.all(24.0),
                         child: Column(
                           mainAxisSize: MainAxisSize.max,
                           crossAxisAlignment: CrossAxisAlignment.start,

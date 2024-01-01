@@ -55,7 +55,7 @@ class _BookingAppointmentWidgetState extends State<BookingAppointmentWidget> {
           borderRadius: BorderRadius.circular(12.0),
         ),
         child: Padding(
-          padding: const EdgeInsetsDirectional.fromSTEB(12.0, 12.0, 12.0, 12.0),
+          padding: const EdgeInsets.all(12.0),
           child: Column(
             mainAxisSize: MainAxisSize.max,
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -179,7 +179,7 @@ class _BookingAppointmentWidgetState extends State<BookingAppointmentWidget> {
                     ),
                     Expanded(
                       child: Align(
-                        alignment: const AlignmentDirectional(-1.00, 0.00),
+                        alignment: const AlignmentDirectional(-1.0, 0.0),
                         child: Padding(
                           padding: const EdgeInsetsDirectional.fromSTEB(
                               4.0, 2.0, 0.0, 0.0),

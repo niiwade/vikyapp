@@ -91,8 +91,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                           borderRadius: BorderRadius.circular(12.0),
                         ),
                         child: Padding(
-                          padding: const EdgeInsetsDirectional.fromSTEB(
-                              2.0, 2.0, 2.0, 2.0),
+                          padding: const EdgeInsets.all(2.0),
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10.0),
                             child: Image.network(
@@ -182,7 +181,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                 alignment: const AlignmentDirectional(0.0, 0.0),
                                 children: [
                                   Align(
-                                    alignment: const AlignmentDirectional(0.95, 0.00),
+                                    alignment: const AlignmentDirectional(0.95, 0.0),
                                     child: Padding(
                                       padding: const EdgeInsetsDirectional.fromSTEB(
                                           0.0, 0.0, 8.0, 0.0),
@@ -195,8 +194,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                     ),
                                   ),
                                   Align(
-                                    alignment:
-                                        const AlignmentDirectional(-0.85, 0.00),
+                                    alignment: const AlignmentDirectional(-0.85, 0.0),
                                     child: Container(
                                       width: 36.0,
                                       height: 36.0,
@@ -261,8 +259,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                 alignment: const AlignmentDirectional(0.0, 0.0),
                                 children: [
                                   Align(
-                                    alignment:
-                                        const AlignmentDirectional(-0.90, 0.00),
+                                    alignment: const AlignmentDirectional(-0.9, 0.0),
                                     child: Padding(
                                       padding: const EdgeInsetsDirectional.fromSTEB(
                                           8.0, 2.0, 0.0, 0.0),
@@ -275,7 +272,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                     ),
                                   ),
                                   Align(
-                                    alignment: const AlignmentDirectional(0.90, 0.00),
+                                    alignment: const AlignmentDirectional(0.9, 0.0),
                                     child: Container(
                                       width: 36.0,
                                       height: 36.0,
@@ -345,7 +342,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                     shape: BoxShape.rectangle,
                   ),
                   child: Padding(
-                    padding: const EdgeInsetsDirectional.fromSTEB(8.0, 8.0, 8.0, 8.0),
+                    padding: const EdgeInsets.all(8.0),
                     child: Row(
                       mainAxisSize: MainAxisSize.max,
                       children: [
@@ -359,7 +356,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                         ),
                         Expanded(
                           child: Align(
-                            alignment: const AlignmentDirectional(0.90, 0.00),
+                            alignment: const AlignmentDirectional(0.9, 0.0),
                             child: Icon(
                               Icons.arrow_forward_ios,
                               color: FlutterFlowTheme.of(context).secondaryText,
@@ -390,7 +387,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                     shape: BoxShape.rectangle,
                   ),
                   child: Padding(
-                    padding: const EdgeInsetsDirectional.fromSTEB(8.0, 8.0, 8.0, 8.0),
+                    padding: const EdgeInsets.all(8.0),
                     child: Row(
                       mainAxisSize: MainAxisSize.max,
                       children: [
@@ -404,7 +401,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                         ),
                         Expanded(
                           child: Align(
-                            alignment: const AlignmentDirectional(0.90, 0.00),
+                            alignment: const AlignmentDirectional(0.9, 0.0),
                             child: Icon(
                               Icons.arrow_forward_ios,
                               color: FlutterFlowTheme.of(context).secondaryText,

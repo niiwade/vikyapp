@@ -112,7 +112,7 @@ class _TopPharmaciesWidgetState extends State<TopPharmaciesWidget> {
                             ),
                           ),
                           Align(
-                            alignment: const AlignmentDirectional(-1.00, 0.00),
+                            alignment: const AlignmentDirectional(-1.0, 0.0),
                             child: Padding(
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   8.0, 4.0, 0.0, 0.0),
@@ -185,7 +185,7 @@ class _TopPharmaciesWidgetState extends State<TopPharmaciesWidget> {
                             ),
                           ),
                           Align(
-                            alignment: const AlignmentDirectional(-1.00, 0.00),
+                            alignment: const AlignmentDirectional(-1.0, 0.0),
                             child: Padding(
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   8.0, 4.0, 0.0, 0.0),
@@ -248,7 +248,7 @@ class _TopPharmaciesWidgetState extends State<TopPharmaciesWidget> {
                             ),
                           ),
                           Align(
-                            alignment: const AlignmentDirectional(0.00, 0.00),
+                            alignment: const AlignmentDirectional(0.0, 0.0),
                             child: Padding(
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   8.0, 0.0, 0.0, 0.0),
@@ -260,7 +260,7 @@ class _TopPharmaciesWidgetState extends State<TopPharmaciesWidget> {
                             ),
                           ),
                           Align(
-                            alignment: const AlignmentDirectional(0.00, 0.00),
+                            alignment: const AlignmentDirectional(0.0, 0.0),
                             child: Padding(
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   8.0, 4.0, 0.0, 0.0),

@@ -98,8 +98,7 @@ class _HomepageWidgetState extends State<HomepageWidget> {
                           shape: badges.BadgeShape.circle,
                           badgeColor: const Color(0xFFDF0072),
                           elevation: 2.0,
-                          padding: const EdgeInsetsDirectional.fromSTEB(
-                              8.0, 8.0, 8.0, 8.0),
+                          padding: const EdgeInsets.all(8.0),
                           position: badges.BadgePosition.topEnd(),
                           animationType: badges.BadgeAnimationType.scale,
                           toAnimate: true,
